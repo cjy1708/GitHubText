@@ -1,0 +1,3 @@
+D:/programming/CLion experiment/GitHubText/cmake-build-debug/CMakeFiles/GitHubText.dir
+D:/programming/CLion experiment/GitHubText/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/programming/CLion experiment/GitHubText/cmake-build-debug/CMakeFiles/rebuild_cache.dir

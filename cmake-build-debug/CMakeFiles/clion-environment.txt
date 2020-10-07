@@ -1,0 +1,4 @@
+ToolSet: w64 7.0 (local)@D:\Work\mingw-17.1\MinGW
+Options: 
+
+Options:
